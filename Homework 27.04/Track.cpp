@@ -6,6 +6,7 @@ Truck::Truck(string brand, string color, int fuelTankCapacity, float fuelConsump
 	this->cargoCapacity = cargoCapacity;
 }
 
+
 void Truck::setCargoCapacity(int cargoCapacity)
 {
 	this->cargoCapacity = cargoCapacity;
